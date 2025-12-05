@@ -15,9 +15,9 @@ The results show that our method, sATAE-HFGCN, not only achieves superior perfor
 ### Training shared attention-based autoencoder (sATAE)  to obtain latent feature.
 
 ```Run
-.py
+train_sATAE.py
 ```
 ### Load latent feature and training hierarchical fusion-based graph convolution network (HFGCN)
 ```Run
-.py
+HFGCN_soz_classsificaiton.py
 ```
