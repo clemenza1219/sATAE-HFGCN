@@ -17,7 +17,9 @@ The results show that our method, sATAE-HFGCN, not only achieves superior perfor
 ```Run
 train_sATAE.py
 ```
-### Load latent feature and training hierarchical fusion-based graph convolution network (HFGCN)
+### Load latent feature and training hierarchical fusion-based graph convolution network (HFGCN) for SOZ identifcaiton.
 ```Run
 HFGCN_soz_classsificaiton.py
 ```
+
+
