@@ -23,5 +23,5 @@ HFGCN_soz_classsificaiton.py
 ```
 # sEEG data avaiable 
 All sEEG data utilized in this study were provided by the Union Hospital, Fujian Medical University. The acquisition and use of the data were approved by the relevant institutional authorities and complied with ethical guidelines.
-To gain the access to sEEG datasets, please download and carefully fill out the license agreement below, and send it to the designated email address. The person in charge will review your application and inform you of the data download procedure.
+To gain the access to sEEG datasets, please download and carefully fill out the [!]license agreement, and send it to the designated email address. The person in charge will review your application and inform you of the data download procedure.
 
