@@ -12,12 +12,12 @@ HFGCN integrates the dynamic and static characteristics of epileptic networks th
 Combining sATAE and HFGCN, we perform comprehensive experiments with sATAE-HFGCN on the self-build sEEG dataset, which includes sEEG data from 17 patients with temporal lobe epilepsy.
 The results show that our method, sATAE-HFGCN, not only achieves superior performance for identifying the SOZ of each patient, but also exhibits notable interpretability and generalizability, providing a novel and effective method for sEEG-based SOZ identification.
 
-### Training shared attention-based autoencoder (sATAE)
+### Training shared attention-based autoencoder (sATAE)  to obtain latent feature.
 
 ```Run
 .py
 ```
-### Training hierarchical fusion-based graph convolution network (HFGCN)
+### Load latent feature and training hierarchical fusion-based graph convolution network (HFGCN)
 ```Run
 .py
 ```
