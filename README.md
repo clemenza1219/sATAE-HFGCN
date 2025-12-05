@@ -21,5 +21,6 @@ train_sATAE.py
 ```Run
 HFGCN_soz_classsificaiton.py
 ```
-
+# sEEG data avaiable 
+All sEEG data utilized in this study were provided by the Union Hospital, Fujian Medical University. The acquisition and use of the data were approved by the relevant institutional authorities and complied with ethical guidelines.
 
