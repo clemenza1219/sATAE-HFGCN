@@ -13,3 +13,11 @@ Combining sATAE and HFGCN, we perform comprehensive experiments with sATAE-HFGCN
 The results show that our method, sATAE-HFGCN, not only achieves superior performance for identifying the SOZ of each patient, but also exhibits notable interpretability and generalizability, providing a novel and effective method for sEEG-based SOZ identification.
 
 ### Training shared attention-based autoencoder (sATAE)
+
+```Run
+.py
+```
+### Training hierarchical fusion-based graph convolution network (HFGCN)
+```Run
+.py
+```
