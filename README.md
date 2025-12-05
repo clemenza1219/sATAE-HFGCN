@@ -11,6 +11,11 @@ Inspired by the finding of neuroscience that epileptic network is intricately ch
 HFGCN integrates the dynamic and static characteristics of epileptic networks through hierarchical weighting across different hierarchies, facilitating a more comprehensive learning of epileptic features and enriching node information for sEEG SOZ identification.
 Combining sATAE and HFGCN, we perform comprehensive experiments with sATAE-HFGCN on the self-build sEEG dataset, which includes sEEG data from 17 patients with temporal lobe epilepsy.
 The results show that our method, sATAE-HFGCN, not only achieves superior performance for identifying the SOZ of each patient, but also exhibits notable interpretability and generalizability, providing a novel and effective method for sEEG-based SOZ identification.
+### Preprecess sEEG data and calculate adjacency matrix.
+
+```Run
+preprocess.py
+```
 
 ### Training shared attention-based autoencoder (sATAE)  to obtain latent feature.
 
